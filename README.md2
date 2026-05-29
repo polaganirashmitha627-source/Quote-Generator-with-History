@@ -1,0 +1,28 @@
+# Quote Generator with History
+
+## Description
+A Flask-based application that fetches random quotes from an external API and stores quote history in SQLite database.
+
+## Features
+- Random Quote Generator
+- API Integration
+- Quote History Storage
+- SQLite Database
+- Flask Backend
+
+## Technologies Used
+- Python
+- Flask
+- SQLite
+- Requests API
+- HTML/CSS
+
+## Installation
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run project:
+
+python app.py
